@@ -2,7 +2,7 @@
   <a href="https://lakshya-2002.io">
     <img src="https://img.freepik.com/premium-photo/data-science-big-data-technology-scientist-computing-analysing-visualizing-complex-data-set-computer-data-mining-artificial-intelligence-machine-learning-business-analytics_1229213-22451.jpg"
          alt="MasterHead"
-         style="max-width: 100%; width: 120%;" />
+         style="max-width: 60%; width: 120%;" />
   </a>
 </p>
 <br/>
@@ -11,7 +11,7 @@
 <h1 align="center">Hi 👋, I'm Lakshya</h1>
 
 <h3 align="center">A passionate Data Analysis Enthusiast</h3>
-<img align="right" alt="Coding" width="500"src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlkYzd6YzRvZXJ4bHpsNXp6YjhzaTF2dDNxNTF6azR3dDY4cjR1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif">
+<img align="right" alt="Coding" width="400"src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlkYzd6YzRvZXJ4bHpsNXp6YjhzaTF2dDNxNTF6azR3dDY4cjR1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
