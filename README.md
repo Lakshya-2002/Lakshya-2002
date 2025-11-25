@@ -2,7 +2,7 @@
   <a href="https://lakshya-2002.io">
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlkYzd6YzRvZXJ4bHpsNXp6YjhzaTF2dDNxNTF6azR3dDY4cjR1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif"
          alt="MasterHead"
-         style="max-width: 100%; width: 200%;" />
+         style="max-width: 10%; width: 66%;" />
   </a>
 </p>
 <br/>
